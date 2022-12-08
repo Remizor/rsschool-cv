@@ -1,2 +1,3 @@
 # rsschool-cv
-RS school, CV project
+RS school, CV project <br>
+https://remizor.github.io/rsschool-cv/
